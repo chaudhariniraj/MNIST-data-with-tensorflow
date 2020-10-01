@@ -1,5 +1,7 @@
 # MNIST-data-with-tensorflow
+
 small operations on MNIST data
+
 #install tensorflow
 
 !pip install tensorflow==2.0.0-beta-1
